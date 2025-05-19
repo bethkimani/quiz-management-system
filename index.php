@@ -33,7 +33,7 @@ $estimated_time = $total * 1.5; // Time in seconds
 
 <main>
     <div class="container">
-        <h2>Test Your PHP Knowledge</h2>
+        <h2>Test Your PHP Knowledge in Programming</h2>
         <p>This is a multiple choice test to test your knowledge of PHP.</p>
 
         <ul>
